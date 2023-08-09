@@ -1,0 +1,10 @@
+body {
+    background-color: #b700ff; /* Dark background color */
+    background-image: url("https://static.wikia.nocookie.net/qsmp/images/9/96/Wall.png/revision/latest?cb=20230516183904"); /* Replace with your QSMP background image */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #000000ce; /* Text color for better visibility */
+   }
+  
